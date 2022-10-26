@@ -1,0 +1,6 @@
+.idea/
+jars/*.jar
+override/**/*.class
+home/*
+!.gitkeep
+*.exe
