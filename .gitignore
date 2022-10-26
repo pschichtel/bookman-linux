@@ -2,5 +2,5 @@
 jars/*.jar
 override/**/*.class
 home/*
-!.gitkeep
+!home/.gitkeep
 *.exe
