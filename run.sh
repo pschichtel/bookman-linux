@@ -17,8 +17,6 @@ find override -type f -name '*.java' -exec javac '{}' \;
 
 java \
     -Duser.home="$PWD/home" \
-    -Dos.name="Linux" \
-    -Dglass.platform=Gtk \
     -Dde.bookman.deployMode=LIVE \
     -Dde.bookman.javaBackendUri=https://cockpit.bookman-gmbh.de/api/java/ \
     -Dde.bookman.microsoftApplicationId=a7719d9a-1877-4bd1-a3c7-e3f8edf86485 \
