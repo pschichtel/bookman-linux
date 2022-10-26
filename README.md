@@ -10,8 +10,8 @@ Bookman's windows installer bundles these, but only for windows (obviously). Thi
 
 For bookman:
 
-* Java 17
-* OpenJFX 17
+* Java 17 (bookman bundles eclipse-temurin)
+* OpenJFX 17 (jars expected in `$JAVA_HOME/lib`)
 
 For the script:
 
