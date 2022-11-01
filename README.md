@@ -18,3 +18,8 @@ For the script:
 * curl
 * unzip
 
+Packages
+--------
+
+* AUR: https://aur.archlinux.org/packages/bookman-cockpit
+
