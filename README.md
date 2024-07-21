@@ -1,6 +1,8 @@
 Bookman Cockpit Linux Edition
 =============================
 
+Only the AUR package (linked at the bottom) is maintained, check that for up to date build information.
+
 This is a small script that downloads the windows installer from their website, unpacks it, replaces the platform detection and start it up similar to how the `bookman.exe` would do on windows.
 
 Dependencies
